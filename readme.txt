@@ -1,0 +1,1 @@
+You must download and install pygame module from http://www.pygame.org/download.shtml before the start of Tetris.
